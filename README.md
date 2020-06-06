@@ -20,7 +20,8 @@ The mission of the University of Michigan is to serve the people of Michigan and
 ## Instructor
 ![Charles Russell Severance](https://github.com/Ashleshk/Python-For-Everybody-Coursera/blob/master/Charles-Severance.jpeg)
 
-TOP INSTRUCTOR
+**TOP INSTRUCTOR**
+Charles Russell Severance
 Clinical Professor,
 School of Information
 
