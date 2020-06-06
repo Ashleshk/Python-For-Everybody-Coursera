@@ -1,34 +1,34 @@
 # Python For Everybody-Coursera
 This course is part of the Python for Everybody Specialization
 
-## Programming for Everybody (Getting Started with Python)
+##  Python Data Structures
  
 
 ### About this Course
-This course aims to teach everyone the basics of programming computers using Python. We cover the basics of how one constructs a program from a series of simple instructions in Python.  The course has no pre-requisites and avoids all but the simplest mathematics. Anyone with moderate computer experience should be able to master the materials in this course. This course will cover Chapters 1-5 of the textbook “Python for Everybody”.  Once a student completes this course, they will be ready to take more advanced programming courses. This course covers Python 3.
-
+This course will introduce the core data structures of the Python programming language. We will move past the basics of procedural programming and explore how we can use the Python built-in data structures such as lists, dictionaries, and tuples to perform increasingly complex data analysis. This course will cover Chapters 6-10 of the textbook “Python for Everybody”.  This course covers Python 3.
 ## Course Syllabus
-* **WEEK-1 : Chapter One - Why we Program?**
-> These are the course-wide materials as well as the first part of Chapter One where we explore what it means to write programs. We finish Chapter One and have the quiz and first assignment in the third week of the class. Throughout the course you may want to come back and look at these materials. This section should not take you an entire week.
+* **WEEK-1 : Chapter Six: Strings**
+> In this class, we pick up where we left off in the previous class, starting in Chapter 6 of the textbook and covering Strings and moving into data structures. The second week of this class is dedicated to getting Python installed if you want to actually run the applications on your desktop or laptop. If you choose not to install Python, you can just skip to the third week and get a head start.
 
-* **WEEK-2 : Installing and Using Python**
-> In this module you will set things up so you can write Python programs. Not all activities in this module are required for this class so please read the "Using Python in this Class" material for details.
+* **WEEK-2 : Unit: Installing and Using Python**
+> In this module you will set things up so you can write Python programs. We do not require installation of Python for this class. You can write and test Python programs in the browser using the "Python Code Playground" in this lesson. Please read the "Using Python in this Class" material for details.
+ 
+* **WEEK-3 : Chapter Seven: Files**
+> Up to now, we have been working with data that is read from the user or data in constants. But real programs process much larger amounts of data by reading and writing files on the secondary storage on your computer. In this chapter we start to write our first programs that read, scan, and process real data.
 
-* **WEEK-3 : Chapter One: Why We Program (continued)**
-> In the first chapter we try to cover the "big picture" of programming so you get a "table of contents" of the rest of the book. Don't worry if not everything makes perfect sense the first time you hear it. This chapter is quite broad and you would benefit from reading the chapter in the book in addition to watching the lectures to help it all sink in. You might want to come back and re-watch these lectures after you have funished a few more chapters.
+* **WEEK-4 : Chapter Eight: Lists**
+As we want to solve more complex problems in Python, we need more powerful variables. Up to now we have been using simple variables to store numbers or strings where we have a single value in a variable. Starting with lists we will store many values in a single variable using an indexing scheme to store, organize, and retrieve different values from within a single variable. We call these multi-valued variables "collections" or "data structures".
 
-* **WEEK-4 : Chapter Two: Variables and Expressions**
-> In this chapter we cover how a program uses the computer's memory to store, retrieve and calculate information.
+* **WEEK-5 : Chapter Nine: Dictionaries**
+> The Python dictionary is one of its most powerful data structures. Instead of representing values in a linear list, dictionaries store data as key / value pairs. Using key / value pairs gives us a simple in-memory "database" in a single Python variable.
+ 
+* **WEEK-6 : Chapter Ten: Tuples**
+> Tuples are our third and final basic Python data structure. Tuples are a simple version of lists. We often use tuples in conjunction with dictionaries to accomplish multi-step tasks like sorting or looping through all of the data in a dictionary.
 
-* **WEEK-5 : Chapter Three: Conditional Code**
-> In this section we move from sequential code that simply runs one line of code after another to conditional code where some steps are skipped. It is a very simple concept - but it is how computer software makes "choices".
-
-* **WEEK-6 : Chapter Four: Functions**
-> This is a relatively short chapter. We will learn about what functions are and how we can use them. The programs in the first chapters of the book are not large enough to require us to develop functions, but as the book moves into more and more complex programs, functions will be an essential way for us to make sense of our code.
-
-* **WEEK-7 : Chapter Five: Loops and Iteration**
+* **WEEK-7 : Graduation**
+> To celebrate your making it to the halfway point in our Python for Everybody Specialization, we welcome you to attend our online graduation ceremony. It is not very long, and it features a Commencement speaker and very short commencement speech.
 
 ## Reference
-> [Coursera](https://www.coursera.org/learn/python?specialization=python#syllabus)
+> [Coursera](https://www.coursera.org/learn/python-data?specialization=python)
 
-> [Achievement Certificate](https://github.com/Ashleshk/Python-For-Everybody-Coursera/blob/master/Course-1-%20getting%20started%20with%20python.pdf)
+> [Achievement Certificate](https://github.com/Ashleshk/Python-For-Everybody-Coursera/blob/master/Course-2-%20Python%20Data%20Structure.pdf)
