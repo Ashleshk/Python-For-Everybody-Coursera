@@ -1,35 +1,47 @@
 # Python For Everybody-Coursera
 This course is part of the Python for Everybody Specialization
 
-##  Using Databases with Python
+##  Capstone: Retrieving, Processing, and Visualizing Data with Python
  
 
 ### About this Course
-This course will introduce students to the basics of the Structured Query Language (SQL) as well as basic database design for storing data as part of a multi-step data gathering, analysis, and processing effort.  The course will use SQLite3 as its database.  We will also build web crawlers and multi-step data gathering and visualization processes.  We will use the D3.js library to do basic data visualization.  This course will cover Chapters 14-15 of the book “Python for Everybody”. To succeed in this course, you should be familiar with the material covered in Chapters 1-13 of the textbook and the first three courses in this specialization. This course covers Python 3.
+In the capstone, students will build a series of applications to retrieve, process and visualize data using Python.   The projects will involve all the elements of the specialization.  In the first part of the capstone, students will do some visualizations to become familiar with the technologies in use and then will pursue their own project to visualize some other data that they have or can find.  Chapters 15 and 16 from the book “Python for Everybody” will serve as the backbone for the capstone. This course covers Python 3.
 
 **WHAT YOU WILL LEARN**
-* Use the Create, Read, Update, and Delete operations to manage databases
-* Explain the basics of Object Oriented Python
-* Understand how data is stored across multiple tables in a database
-* Utilize the Google Maps API to visualize data
+* Make use of unicode characters and strings
+* Understand the basics of building a search engine
+* Select and process the data of your choice
+* Create email data visualizations
+
+## SKILLS YOU WILL GAIN
+* Data Analysis
+* Python Programming
+* Database (DBMS)
+* Data Visualization (DataViz)
 
 ## Course Syllabus
-**WEEK-1 : Object Oriented Python**
-> To start this class out we cover the basics of Object Oriented Python. We won't be writing our own objects, but since many of the things we use like BeautifulSoup, strings, dictionaries, database connections all use Object Oriented (OO) patterns we should at least understand some of its patterns and terminology.
+**WEEK-1 : Welcome to the Capstone**
+> Congratulations to everyone for making it this far. Before you begin, please view the Introduction video and read the Capstone Overview. The Course Resources section contains additional course-wide material that you may want to refer to in future weeks.
 
-**WEEK-2 : Basic Structured Query Language**
-> We learn the four core CRUD operations (Create, Read, Update, and Delete) to manage data stored in a database.
+**WEEK-2 :Building a Search Engine**
+> This week we will download and run a simple version of the Google PageRank Algorithm and practice spidering some content. The assignment is peer-graded, and the first of three optional Honors assignments in the course. This a continuation of the material covered in Course 4 of the specialization, and is based on Chapter 16 of the textbook.
 
-**WEEK-3 : Data Models and Relational SQL**
-> In this section we learn about how data is stored across multiple tables in a database and how rows are linked (i.e., we establish relationships) in the database.
+**WEEK-3 : Exploring Data Sources (Project)**
+> The optional Capstone project is your opportunity to select, process, and visualize the data of your choice, and receive feedback from your peers. The project is not graded, and can be as simple or complex as you like. This week's assignment is to identify a data source and make a short discussion forum post describing the data source and outlining some possible analysis that could be done with it. You will not be required to use the data source presented here for your actual analysis.
 
-**WEEK-4 : Many-to-Many Relationships in SQL**
-> In this section we explore how to model situations like students enrolling in courses where each course has many students and each student is enrolled in many courses.
+**WEEK-4 :Spidering and Modeling Email Data**
+> In our second optional Honors assignment, we will retrieve and process email data from the Sakai open source project. Video lectures will walk you through the process of retrieving, cleaning up, and modeling the data.
 
-**WEEK-5 : Databases and Visualization**
-> In this section, we put it all together, retrieve and process some data and then use the Google Maps API to visualize our data.
+**WEEK-5 : Accessing New Data Sources (Project)**
+> The task for this week is to make a discussion thread post that reflects the progress you have made to date in retrieving and cleaning up your data source so can perform your analysis. Feedback from other students is encouraged to help you refine the process.
+
+**WEEK-6 : Visualizing Email Data**
+> In the final optional Honors assignment, we will do two visualizations of the email data you have retrieved and processed: a word cloud to visualize the frequency distribution and a timeline to show how the data is changing over time.
+
+**WEEK-7 : Visualizing new Data Sources (Project)**
+> This week you will discuss the analysis of your data to the class. While many of the projects will result in a visualization of the data, any other results of analyzing the data are equally valued, so use whatever form of analysis and display is most appropriate to the data set you have selected.
 
 ## Reference
-> [Coursera](https://www.coursera.org/learn/python-databases?specialization=python)
+> [Coursera](https://www.coursera.org/learn/python-data-visualization)
 
-> [Achievement Certificate](https://github.com/Ashleshk/Python-For-Everybody-Coursera/blob/master/Course-4%20Using%20Databases%20with%20Python.pdf)
+> [Achievement Certificate](https://github.com/Ashleshk/Python-For-Everybody-Coursera/blob/master/Course-5%20Capstone%20Retriveing%20Processing%20and%20Visulaisation%20data.pdf)
