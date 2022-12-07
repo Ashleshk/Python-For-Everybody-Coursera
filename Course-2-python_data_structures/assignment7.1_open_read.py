@@ -14,5 +14,5 @@ fhand = open(fname)
 for line in fhand:
     line = line.rstrip().upper()
     # rstrip then upper
-    print line
+    print (line)
 
